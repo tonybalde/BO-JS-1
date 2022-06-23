@@ -1,1 +1,1 @@
-# BO-JS-1
+# Primer Ejercicio de JavaScritp en Open Bootcamp!
